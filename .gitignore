@@ -1,3 +1,11 @@
 bin/
 obj
+
+# Codeblocks config
 *.cbp
+
+# vscode
+.vscode/
+
+# Intellij Idea
+.idea/
