@@ -1,9 +1,12 @@
 #include <iostream>
+#include "Game.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "This is working. Wow" << endl;
+    Game game;
+    game.printOut();
+
     return 0;
 }
